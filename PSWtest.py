@@ -6,7 +6,7 @@ import time
 # Page setup
 st.set_page_config(page_title="PSW", layout="wide")
 
-EXCEL_FILE = r"PSW.xlsx"
+EXCEL_FILE = "PSW.xlsx"
 
 # JavaScript-based auto-refresh every 10 seconds
 refresh_interval = 10
